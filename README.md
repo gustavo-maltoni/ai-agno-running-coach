@@ -1,1 +1,2 @@
 # ai-agno-running-coach
+This Python LLM app configures an Agno agent specialized in running training. Tools were implemented to obtain data from the Zepp API containing the history of physical activities, as well as another for filtering specific running metrics. With this information, the agent generates a concise training plan for the current week.
